@@ -1,1 +1,19 @@
-/* styles go here */
+fieldset {
+  margin-top: 20px;
+}
+
+form :nth-child(1) {
+  margin-top: 0;
+}
+
+div {
+  margin-top: 10px;
+}
+
+legend + div {
+  margin-top: 0;
+}
+
+button {
+  margin-top: 20px;
+}
